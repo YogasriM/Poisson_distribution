@@ -1,4 +1,5 @@
 # Fitting Poisson  distribution
+22/10/24
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
